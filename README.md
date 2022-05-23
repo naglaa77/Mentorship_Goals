@@ -59,18 +59,18 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
-- [ ] Template 4 [HTML + CSS + JS]
+- [ x] Template 1 [HTML + CSS]
+- [x ] Template 2 [HTML + CSS]
+- [ x] Template 3 [HTML + CSS]
+- [ x] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
 ## Portofolio
 
-- [ ] Your Website
-- [ ] Github Profile
-- [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
-- [ ] Resume
+- [x ] Your Website
+- [x ] Github Profile
+- [x ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
+- [x ] Resume
 
 ## Before Frameworks
 
@@ -82,7 +82,7 @@ Mentorship Goals Needed To Finish
 
 ## Save Time Skills
 
-- [ ] SASS
+- [x ] SASS
 - [ ] Pugjs
 - [ ] One Of The Task Runners
 
